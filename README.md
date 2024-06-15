@@ -1,2 +1,4 @@
-# AutoClicker
-Some autoclicker i made as an begginer and still learning
+This Is An AutoClicker that I Made.
+Den0Bandz On Discord! You Can Add If you want. Made this in python as a BEGGINER Coder! but i made this... 
+
+By the way you change the change background if you want ig. Just place a background in the folder and then rename it to background.jpg then your done....
